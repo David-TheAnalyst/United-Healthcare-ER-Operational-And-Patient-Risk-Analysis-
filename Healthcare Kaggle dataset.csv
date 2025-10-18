@@ -1,0 +1,451 @@
+Admission_Number,Age,Gender,Race,Location_of_Occurrence,Nature_of_Emergency,Year,Status,Duration_in_ER
+A00001,52,Male,Black or African American,Other,Stroke,2019,BID,20.6
+A00002,15,Male,Asian,Public Place,Trauma,2023,Unstable,3.3
+A00003,72,Female,Asian,Work,Cardiac arrest,2022,BID,17.9
+A00004,61,Male,Black or African American,Other,Stroke,2020,Comatose,8
+A00005,21,Female,Hispanic or Latino,Work,Cardiac arrest,2019,Unstable,23.7
+A00006,83,Female,White,School,Cardiac arrest,2021,Stable,11.9
+A00007,87,Male,White,Home,Cardiac arrest,2022,Stable,3.4
+A00008,75,Male,Hispanic or Latino,Work,Infection,2020,Stable,17.5
+A00009,75,Female,Black or African American,Home,Allergic reaction,2023,Unstable,8.1
+A00010,88,Female,Asian,Other,Cardiac arrest,2019,BID,23.9
+A00011,24,Female,White,Home,Infection,2020,Comatose,23.5
+A00012,3,Male,Other,Work,Trauma,2023,BID,15.9
+A00013,22,Female,Other,School,Stroke,2020,BID,3.6
+A00014,53,Female,Hispanic or Latino,Other,Allergic reaction,2022,Comatose,16.6
+A00015,2,Female,Black or African American,Work,Psychiatric emergency,2022,Comatose,2.7
+A00016,88,Male,White,Other,Stroke,2022,Unstable,1.2
+A00017,30,Female,Black or African American,Public Place,Allergic reaction,2019,Unstable,19.8
+A00018,38,Female,White,Home,Psychiatric emergency,2022,Unstable,5.4
+A00019,2,Male,Hispanic or Latino,Public Place,Stroke,2023,Unstable,9.4
+A00020,64,Female,Hispanic or Latino,Work,Allergic reaction,2020,Unstable,23.4
+A00021,60,Female,Other,School,Stroke,2021,Comatose,8.4
+A00022,21,Male,Black or African American,Other,Stroke,2023,BID,7.5
+A00023,33,Female,Other,Home,Psychiatric emergency,2023,Unstable,22.1
+A00024,76,Male,Black or African American,Other,Stroke,2022,Unstable,3.1
+A00025,58,Male,Other,Work,Stroke,2019,BID,18.4
+A00026,22,Female,Asian,Other,Psychiatric emergency,2020,Unstable,23.7
+A00027,89,Female,Asian,Home,Trauma,2019,BID,21.7
+A00028,49,Female,Asian,Work,Cardiac arrest,2020,BID,15.8
+A00029,59,Female,Asian,Other,Respiratory distress,2020,Comatose,7.9
+A00030,42,Male,White,School,Infection,2019,Stable,6.5
+A00031,60,Female,Asian,Work,Respiratory distress,2023,Comatose,19.8
+A00032,80,Male,Hispanic or Latino,Work,Respiratory distress,2020,Stable,21.2
+A00033,15,Female,Hispanic or Latino,School,Allergic reaction,2019,Stable,12.8
+A00034,62,Female,White,Public Place,Cardiac arrest,2020,Stable,6.2
+A00035,62,Female,Asian,Home,Allergic reaction,2021,Unstable,3.2
+A00036,47,Male,Asian,Public Place,Cardiac arrest,2023,Comatose,2.5
+A00037,62,Female,Asian,Other,Psychiatric emergency,2022,Stable,17.4
+A00038,51,Female,Other,School,Psychiatric emergency,2020,BID,10.4
+A00039,55,Female,Black or African American,Public Place,Cardiac arrest,2021,Unstable,21.8
+A00040,64,Female,Other,Work,Stroke,2022,Comatose,17.9
+A00041,3,Male,Black or African American,Other,Trauma,2022,Stable,5
+A00042,51,Female,Asian,Other,Stroke,2020,BID,14.9
+A00043,7,Male,Asian,Public Place,Trauma,2019,Comatose,10.7
+A00044,21,Male,Other,Public Place,Allergic reaction,2020,Comatose,14.1
+A00045,73,Male,Other,School,Trauma,2021,Unstable,17.8
+A00046,39,Male,Black or African American,Home,Allergic reaction,2022,Comatose,19.4
+A00047,18,Male,Hispanic or Latino,Public Place,Psychiatric emergency,2020,Unstable,20.3
+A00048,4,Male,Black or African American,Public Place,Respiratory distress,2019,Stable,6.5
+A00049,89,Female,Other,Work,Psychiatric emergency,2020,Unstable,1.2
+A00050,60,Male,Other,Other,Psychiatric emergency,2023,BID,17.9
+A00051,14,Male,White,Home,Respiratory distress,2019,Unstable,3
+A00052,9,Male,Other,Work,Trauma,2021,BID,7.9
+A00053,53,Female,White,School,Trauma,2022,Unstable,0.6
+A00054,2,Female,Hispanic or Latino,School,Allergic reaction,2020,Comatose,16.5
+A00055,84,Male,Black or African American,Public Place,Stroke,2019,Stable,4.4
+A00056,60,Female,Black or African American,Public Place,Allergic reaction,2023,BID,15.9
+A00057,71,Male,White,School,Stroke,2019,Unstable,23.8
+A00058,44,Male,Black or African American,Public Place,Psychiatric emergency,2023,Unstable,2.2
+A00059,8,Female,Other,Home,Respiratory distress,2021,Unstable,2.3
+A00060,47,Male,Asian,Public Place,Psychiatric emergency,2022,Comatose,8.5
+A00061,35,Female,White,Other,Cardiac arrest,2021,Comatose,20.9
+A00062,78,Female,Black or African American,Public Place,Trauma,2020,BID,5.6
+A00063,81,Male,White,Work,Stroke,2019,BID,9
+A00064,36,Male,White,Home,Allergic reaction,2023,Comatose,2.1
+A00065,50,Female,Asian,Work,Respiratory distress,2023,BID,18.4
+A00066,4,Male,Other,Work,Stroke,2019,Stable,10.1
+A00067,2,Male,White,Other,Allergic reaction,2019,Stable,18.3
+A00068,6,Male,Black or African American,Home,Trauma,2020,Comatose,21.7
+A00069,54,Female,Hispanic or Latino,Home,Psychiatric emergency,2021,BID,6
+A00070,4,Female,White,Home,Trauma,2023,Unstable,19.5
+A00071,54,Male,White,Home,Infection,2020,Stable,1.9
+A00072,63,Female,Asian,Home,Cardiac arrest,2021,Comatose,21.6
+A00073,18,Female,Other,Other,Infection,2020,BID,15.8
+A00074,44,Female,Hispanic or Latino,Public Place,Respiratory distress,2023,Comatose,21
+A00075,34,Female,Black or African American,Work,Stroke,2019,Unstable,0.5
+A00076,74,Female,Hispanic or Latino,Home,Respiratory distress,2019,Stable,4.5
+A00077,62,Male,Black or African American,Public Place,Psychiatric emergency,2021,Comatose,9.7
+A00078,14,Male,Other,Public Place,Allergic reaction,2022,Comatose,9.4
+A00079,48,Male,Black or African American,Work,Trauma,2021,Comatose,5.8
+A00080,15,Female,Asian,Other,Infection,2022,Unstable,9.5
+A00081,72,Female,Asian,School,Infection,2020,Comatose,3.5
+A00082,78,Male,Asian,School,Psychiatric emergency,2020,Unstable,10.2
+A00083,87,Female,Asian,Public Place,Infection,2023,Unstable,19.4
+A00084,62,Male,Hispanic or Latino,Work,Psychiatric emergency,2022,Unstable,11.8
+A00085,40,Male,Other,School,Respiratory distress,2023,Stable,0.9
+A00086,85,Male,Black or African American,Public Place,Trauma,2019,Stable,10.4
+A00087,80,Female,Black or African American,Other,Stroke,2022,Comatose,1.1
+A00088,82,Female,Asian,School,Allergic reaction,2021,Comatose,23.2
+A00089,53,Male,Asian,Public Place,Stroke,2019,Stable,3.5
+A00090,24,Male,White,Public Place,Respiratory distress,2019,BID,17.1
+A00091,26,Male,Other,Home,Allergic reaction,2021,Stable,23.4
+A00092,89,Male,Hispanic or Latino,Other,Infection,2019,Unstable,19.9
+A00093,60,Female,Black or African American,Home,Cardiac arrest,2022,Stable,16.9
+A00094,41,Female,White,Work,Respiratory distress,2023,Unstable,20.2
+A00095,29,Male,White,Home,Respiratory distress,2019,Comatose,23.6
+A00096,15,Male,Black or African American,Home,Trauma,2022,BID,15.1
+A00097,45,Female,Hispanic or Latino,School,Stroke,2020,Comatose,13.6
+A00098,65,Female,White,Public Place,Respiratory distress,2022,Unstable,15.3
+A00099,89,Male,White,Other,Respiratory distress,2023,Unstable,13
+A00100,71,Male,Other,Home,Infection,2022,Unstable,15.4
+A00101,9,Male,Hispanic or Latino,Other,Infection,2021,BID,11.1
+A00102,88,Female,White,Home,Allergic reaction,2023,Stable,5.6
+A00103,1,Female,Hispanic or Latino,Work,Psychiatric emergency,2020,Comatose,3.3
+A00104,8,Female,Black or African American,Home,Psychiatric emergency,2021,Comatose,2.1
+A00105,88,Male,Asian,School,Cardiac arrest,2022,Stable,6.7
+A00106,63,Male,White,Public Place,Psychiatric emergency,2023,Comatose,1.6
+A00107,11,Female,Other,Work,Trauma,2020,BID,13.8
+A00108,81,Female,Black or African American,Home,Cardiac arrest,2021,Comatose,7.2
+A00109,8,Male,Hispanic or Latino,Other,Allergic reaction,2020,Unstable,19.9
+A00110,35,Female,Black or African American,Work,Infection,2022,Stable,2.2
+A00111,35,Female,White,Work,Psychiatric emergency,2020,BID,5.8
+A00112,33,Male,Hispanic or Latino,Home,Stroke,2019,Stable,17.7
+A00113,5,Female,Asian,Work,Infection,2021,BID,14.6
+A00114,41,Male,Black or African American,Other,Trauma,2020,Unstable,2
+A00115,28,Male,White,Work,Infection,2022,Stable,21.1
+A00116,7,Male,Other,Other,Trauma,2022,Comatose,21.1
+A00117,73,Male,Hispanic or Latino,Home,Trauma,2020,BID,8.3
+A00118,72,Male,Black or African American,Public Place,Trauma,2022,Stable,8.5
+A00119,12,Male,Black or African American,Work,Allergic reaction,2023,Comatose,23.7
+A00120,34,Male,Asian,Public Place,Trauma,2023,Stable,15.2
+A00121,33,Female,Asian,Other,Trauma,2023,Stable,13
+A00122,48,Male,Other,Work,Stroke,2019,Stable,20.2
+A00123,23,Male,Other,School,Cardiac arrest,2020,BID,7.2
+A00124,62,Female,White,Public Place,Respiratory distress,2019,Comatose,10.6
+A00125,88,Female,White,Work,Cardiac arrest,2022,Unstable,6.8
+A00126,37,Female,Other,Public Place,Trauma,2019,BID,19
+A00127,44,Male,Other,Work,Stroke,2022,BID,14
+A00128,86,Female,Hispanic or Latino,Home,Infection,2022,BID,16
+A00129,35,Male,Asian,Public Place,Stroke,2021,Unstable,6.4
+A00130,65,Male,White,School,Trauma,2023,Comatose,5.7
+A00131,47,Male,Asian,School,Stroke,2022,Comatose,12
+A00132,78,Male,Asian,Other,Psychiatric emergency,2021,Comatose,17.8
+A00133,3,Female,Other,Work,Stroke,2023,Stable,12.8
+A00134,1,Female,Hispanic or Latino,Public Place,Trauma,2022,Stable,1.3
+A00135,5,Male,Black or African American,Other,Allergic reaction,2022,Stable,20.9
+A00136,14,Male,Hispanic or Latino,Public Place,Psychiatric emergency,2019,Unstable,2
+A00137,27,Male,Hispanic or Latino,Work,Stroke,2019,Stable,23
+A00138,9,Female,Asian,School,Respiratory distress,2023,Unstable,1.1
+A00139,79,Male,Hispanic or Latino,Home,Respiratory distress,2022,Comatose,16.8
+A00140,15,Male,White,School,Stroke,2020,Stable,2.4
+A00141,42,Female,Asian,Other,Allergic reaction,2019,Stable,21.9
+A00142,77,Female,White,Home,Infection,2023,BID,11.4
+A00143,51,Male,Black or African American,Other,Trauma,2022,Unstable,3.7
+A00144,63,Female,Asian,Work,Respiratory distress,2022,Comatose,8.5
+A00145,52,Female,Black or African American,Home,Infection,2020,BID,4.4
+A00146,4,Male,Asian,Other,Stroke,2023,BID,4.5
+A00147,23,Female,Other,Work,Infection,2022,Comatose,22.8
+A00148,15,Male,Hispanic or Latino,School,Psychiatric emergency,2019,BID,11
+A00149,43,Female,Other,Work,Cardiac arrest,2020,Unstable,19
+A00150,29,Male,Black or African American,Public Place,Respiratory distress,2023,Unstable,15.5
+A00151,36,Male,Hispanic or Latino,Work,Stroke,2020,Stable,16.4
+A00152,13,Male,Asian,Work,Trauma,2019,BID,3.6
+A00153,32,Female,Hispanic or Latino,Public Place,Allergic reaction,2023,Stable,6
+A00154,71,Male,White,Other,Psychiatric emergency,2020,BID,19
+A00155,59,Female,Hispanic or Latino,Other,Stroke,2021,Unstable,23.3
+A00156,86,Male,White,Work,Trauma,2019,Unstable,6.7
+A00157,28,Male,Hispanic or Latino,Public Place,Allergic reaction,2019,Unstable,6.9
+A00158,66,Female,White,Public Place,Allergic reaction,2019,BID,11.6
+A00159,42,Male,Black or African American,School,Stroke,2021,Unstable,23.6
+A00160,45,Male,Other,Other,Psychiatric emergency,2021,BID,6.8
+A00161,62,Female,Asian,Home,Infection,2022,Stable,10.1
+A00162,57,Male,Hispanic or Latino,Other,Infection,2020,BID,21.4
+A00163,6,Male,Other,Other,Allergic reaction,2022,Stable,0.6
+A00164,28,Male,Asian,School,Infection,2020,BID,1.4
+A00165,28,Male,Asian,Home,Cardiac arrest,2021,Stable,14.7
+A00166,44,Female,White,School,Allergic reaction,2021,Unstable,21.8
+A00167,84,Female,Black or African American,Home,Allergic reaction,2022,Stable,6.1
+A00168,30,Male,Black or African American,Work,Trauma,2023,Unstable,11.5
+A00169,62,Female,Other,Home,Infection,2022,Unstable,11.1
+A00170,75,Male,Black or African American,School,Psychiatric emergency,2020,Stable,11.6
+A00171,89,Female,Hispanic or Latino,Other,Allergic reaction,2022,BID,15.1
+A00172,62,Male,Black or African American,Home,Psychiatric emergency,2019,BID,11.5
+A00173,1,Male,Other,Home,Cardiac arrest,2020,Comatose,11
+A00174,27,Male,Black or African American,Public Place,Trauma,2020,BID,11.6
+A00175,62,Male,Hispanic or Latino,Other,Stroke,2023,Comatose,14.4
+A00176,77,Male,White,Work,Psychiatric emergency,2021,BID,13.1
+A00177,3,Male,Other,School,Allergic reaction,2020,BID,20.6
+A00178,70,Female,White,Work,Cardiac arrest,2021,Unstable,1.7
+A00179,72,Male,White,Other,Respiratory distress,2022,Comatose,20.1
+A00180,27,Female,White,Home,Cardiac arrest,2019,BID,20.3
+A00181,9,Male,Asian,Home,Cardiac arrest,2023,Comatose,7.2
+A00182,62,Female,Asian,Other,Trauma,2021,Unstable,11.4
+A00183,37,Female,White,Home,Stroke,2020,Unstable,10.8
+A00184,51,Female,Other,Home,Respiratory distress,2021,Comatose,5.6
+A00185,44,Male,Hispanic or Latino,Home,Infection,2020,Unstable,9.8
+A00186,24,Male,Hispanic or Latino,School,Infection,2021,Stable,1.5
+A00187,79,Female,Black or African American,School,Psychiatric emergency,2020,Stable,7
+A00188,59,Male,Other,Public Place,Cardiac arrest,2022,Unstable,19.7
+A00189,32,Female,Asian,Work,Trauma,2020,Stable,7.2
+A00190,88,Male,White,Other,Trauma,2020,BID,19.7
+A00191,52,Female,Black or African American,Other,Infection,2019,Comatose,13
+A00192,62,Female,Hispanic or Latino,Other,Psychiatric emergency,2020,BID,21.2
+A00193,58,Male,Asian,Public Place,Psychiatric emergency,2019,Comatose,14
+A00194,52,Female,Asian,School,Psychiatric emergency,2023,Unstable,1.2
+A00195,12,Male,White,Public Place,Respiratory distress,2019,BID,16.4
+A00196,39,Female,Hispanic or Latino,Other,Stroke,2022,Unstable,1.6
+A00197,2,Female,Other,Work,Respiratory distress,2019,Unstable,11.1
+A00198,3,Male,Asian,Home,Allergic reaction,2023,Comatose,22.3
+A00199,56,Male,White,School,Allergic reaction,2022,Comatose,4.4
+A00200,81,Male,Other,School,Stroke,2021,Comatose,9.7
+A00201,59,Female,Hispanic or Latino,Public Place,Infection,2021,BID,17.7
+A00202,2,Male,Asian,School,Stroke,2019,Stable,21.2
+A00203,2,Female,Other,Other,Trauma,2019,Comatose,16.3
+A00204,54,Female,Other,Other,Allergic reaction,2023,Comatose,6.6
+A00205,87,Male,Other,Public Place,Cardiac arrest,2023,BID,16.4
+A00206,1,Male,Asian,Other,Cardiac arrest,2020,Comatose,7.5
+A00207,19,Female,Asian,Work,Infection,2023,BID,17.4
+A00208,2,Female,Black or African American,Public Place,Trauma,2020,Unstable,22.9
+A00209,53,Male,Hispanic or Latino,Work,Respiratory distress,2022,Comatose,17.5
+A00210,44,Male,White,Home,Trauma,2019,Comatose,20.8
+A00211,32,Male,Other,Work,Cardiac arrest,2022,Unstable,0.5
+A00212,70,Male,Black or African American,Home,Cardiac arrest,2023,Unstable,17.4
+A00213,32,Male,White,Home,Allergic reaction,2022,Unstable,20
+A00214,68,Female,Black or African American,Work,Trauma,2022,Comatose,1.5
+A00215,55,Female,Asian,Public Place,Trauma,2022,Stable,21
+A00216,75,Female,Other,Other,Cardiac arrest,2023,Stable,6.5
+A00217,56,Female,White,Other,Respiratory distress,2022,Stable,16.1
+A00218,17,Male,White,Home,Infection,2020,Comatose,19.3
+A00219,38,Male,White,Home,Psychiatric emergency,2023,Unstable,16.1
+A00220,24,Male,White,Public Place,Infection,2022,Comatose,2.7
+A00221,69,Female,White,School,Trauma,2023,Unstable,14.5
+A00222,70,Female,Black or African American,Work,Infection,2021,Comatose,13.4
+A00223,86,Male,Other,Home,Cardiac arrest,2020,Comatose,21.7
+A00224,11,Male,Asian,Other,Cardiac arrest,2022,Unstable,10
+A00225,16,Female,Asian,Public Place,Trauma,2021,Stable,8
+A00226,73,Female,Asian,Work,Trauma,2021,Unstable,18.1
+A00227,59,Male,Asian,Public Place,Psychiatric emergency,2023,BID,10.2
+A00228,70,Male,Black or African American,Work,Psychiatric emergency,2021,BID,15.7
+A00229,80,Female,Hispanic or Latino,Work,Allergic reaction,2020,Unstable,15.7
+A00230,3,Male,Other,Home,Trauma,2020,Comatose,21.4
+A00231,20,Male,White,Public Place,Respiratory distress,2019,BID,14.6
+A00232,59,Male,Hispanic or Latino,Public Place,Infection,2020,BID,12.3
+A00233,36,Female,Asian,Other,Trauma,2021,Comatose,3.8
+A00234,19,Female,Hispanic or Latino,Other,Stroke,2020,Comatose,3.2
+A00235,67,Female,Other,Home,Allergic reaction,2023,Stable,4.1
+A00236,19,Female,White,Home,Stroke,2019,Comatose,4.5
+A00237,20,Female,White,School,Cardiac arrest,2021,Unstable,15.5
+A00238,71,Female,Other,Other,Psychiatric emergency,2019,Unstable,17.9
+A00239,52,Female,Other,Work,Infection,2021,Stable,13
+A00240,33,Male,Asian,Public Place,Trauma,2023,BID,20
+A00241,40,Male,White,Home,Stroke,2019,BID,23.8
+A00242,39,Male,Hispanic or Latino,Public Place,Infection,2022,Comatose,19.8
+A00243,82,Male,Black or African American,Public Place,Cardiac arrest,2021,Unstable,16.8
+A00244,1,Male,Black or African American,School,Psychiatric emergency,2022,BID,13
+A00245,11,Male,Other,Other,Respiratory distress,2019,Stable,11
+A00246,57,Male,Asian,Home,Allergic reaction,2022,Stable,2.5
+A00247,89,Female,Black or African American,Public Place,Infection,2022,Unstable,9.9
+A00248,50,Female,White,Home,Infection,2019,Stable,21.9
+A00249,23,Male,Other,Work,Respiratory distress,2023,Stable,19.5
+A00250,31,Male,Hispanic or Latino,School,Infection,2022,Unstable,5.6
+A00251,42,Female,Other,Work,Cardiac arrest,2022,Comatose,11.5
+A00252,7,Male,Hispanic or Latino,Home,Cardiac arrest,2023,Comatose,19.7
+A00253,16,Male,Other,Home,Respiratory distress,2022,Stable,2.1
+A00254,60,Female,Other,Other,Allergic reaction,2022,Comatose,9.6
+A00255,2,Male,Other,Public Place,Trauma,2022,Comatose,20.5
+A00256,1,Female,Hispanic or Latino,Public Place,Stroke,2020,Stable,10
+A00257,48,Male,Hispanic or Latino,Work,Trauma,2023,Comatose,2.3
+A00258,12,Female,Other,School,Infection,2022,Stable,13.2
+A00259,69,Female,Black or African American,Public Place,Stroke,2023,BID,20.8
+A00260,37,Female,Asian,Other,Respiratory distress,2021,Unstable,14.4
+A00261,32,Male,Asian,Work,Respiratory distress,2021,Unstable,5.8
+A00262,9,Female,Asian,Work,Allergic reaction,2022,Comatose,9.5
+A00263,19,Male,Hispanic or Latino,Other,Stroke,2023,Comatose,11.1
+A00264,48,Male,Hispanic or Latino,School,Cardiac arrest,2023,Comatose,14.1
+A00265,80,Male,Black or African American,Other,Stroke,2023,Unstable,18.3
+A00266,3,Male,Asian,School,Infection,2020,BID,2.8
+A00267,20,Female,Asian,Other,Cardiac arrest,2021,BID,21.4
+A00268,24,Female,Other,Other,Psychiatric emergency,2023,Unstable,0.8
+A00269,54,Male,Hispanic or Latino,Home,Psychiatric emergency,2023,BID,9.2
+A00270,33,Male,Asian,Work,Psychiatric emergency,2020,Unstable,1.1
+A00271,24,Female,Black or African American,Other,Respiratory distress,2020,BID,9.7
+A00272,75,Male,Black or African American,Other,Stroke,2023,Stable,12.9
+A00273,72,Female,Asian,Public Place,Psychiatric emergency,2019,Stable,12.5
+A00274,36,Male,Hispanic or Latino,Work,Trauma,2023,Unstable,4.4
+A00275,38,Male,Black or African American,Public Place,Allergic reaction,2023,BID,15.7
+A00276,84,Female,Other,Work,Trauma,2020,Comatose,1.6
+A00277,89,Male,Black or African American,Public Place,Psychiatric emergency,2020,BID,18.4
+A00278,25,Female,White,Other,Allergic reaction,2023,Stable,22.7
+A00279,18,Male,White,Other,Infection,2023,Stable,8.5
+A00280,82,Male,Hispanic or Latino,Home,Trauma,2023,BID,12.7
+A00281,66,Male,Asian,Public Place,Stroke,2020,BID,9.4
+A00282,54,Female,Hispanic or Latino,School,Stroke,2023,Comatose,0.7
+A00283,35,Male,Hispanic or Latino,Home,Trauma,2023,Comatose,9.6
+A00284,80,Male,Hispanic or Latino,Public Place,Psychiatric emergency,2022,BID,19.1
+A00285,61,Male,Hispanic or Latino,Public Place,Stroke,2019,BID,14.5
+A00286,41,Male,Other,Home,Infection,2021,BID,2.9
+A00287,33,Female,Other,Other,Cardiac arrest,2019,BID,20.4
+A00288,68,Female,Black or African American,Public Place,Psychiatric emergency,2022,Unstable,13
+A00289,33,Male,White,Other,Infection,2021,BID,20.3
+A00290,14,Female,Hispanic or Latino,Home,Allergic reaction,2023,Comatose,14.1
+A00291,21,Male,Black or African American,Other,Infection,2022,Stable,13.7
+A00292,48,Male,White,Work,Psychiatric emergency,2023,Unstable,3
+A00293,20,Male,Asian,School,Allergic reaction,2020,BID,4.4
+A00294,8,Female,Other,Public Place,Psychiatric emergency,2022,Stable,23.3
+A00295,7,Female,White,School,Stroke,2020,Unstable,5.9
+A00296,67,Female,Asian,Other,Cardiac arrest,2022,Stable,23.5
+A00297,17,Female,White,Public Place,Psychiatric emergency,2022,BID,13
+A00298,33,Female,Other,Other,Psychiatric emergency,2020,BID,3.7
+A00299,48,Female,Other,Work,Stroke,2021,Comatose,2.8
+A00300,76,Female,Black or African American,Home,Respiratory distress,2019,BID,5.4
+A00301,59,Female,Hispanic or Latino,Public Place,Stroke,2023,BID,22.3
+A00302,86,Female,White,Work,Allergic reaction,2022,Unstable,10.2
+A00303,22,Male,White,Work,Stroke,2023,Comatose,9.8
+A00304,30,Female,Asian,Public Place,Stroke,2020,Unstable,7.9
+A00305,38,Female,Other,Other,Cardiac arrest,2023,Stable,4
+A00306,51,Female,White,Work,Stroke,2020,BID,12
+A00307,54,Female,Other,School,Psychiatric emergency,2023,Stable,3.6
+A00308,8,Female,White,Work,Cardiac arrest,2019,Unstable,20.1
+A00309,27,Female,Black or African American,Other,Trauma,2019,BID,9.2
+A00310,27,Female,Hispanic or Latino,Other,Respiratory distress,2019,BID,9.3
+A00311,21,Female,White,School,Cardiac arrest,2019,Unstable,11.6
+A00312,30,Female,Other,Work,Allergic reaction,2019,Unstable,10.9
+A00313,28,Female,Black or African American,Other,Trauma,2019,Unstable,23.9
+A00314,64,Female,White,Public Place,Cardiac arrest,2020,Unstable,13.3
+A00315,69,Male,Asian,Home,Cardiac arrest,2022,Unstable,2.6
+A00316,61,Male,Hispanic or Latino,Home,Respiratory distress,2023,BID,14.8
+A00317,48,Female,White,Home,Psychiatric emergency,2019,Unstable,4.1
+A00318,19,Female,Black or African American,Work,Allergic reaction,2020,BID,1.2
+A00319,4,Male,Asian,School,Infection,2020,BID,23.3
+A00320,35,Female,Black or African American,Other,Infection,2020,Unstable,18.7
+A00321,64,Male,Black or African American,Public Place,Cardiac arrest,2022,Unstable,23.5
+A00322,49,Male,Asian,Public Place,Stroke,2023,Comatose,11.7
+A00323,17,Male,Black or African American,Work,Allergic reaction,2022,BID,13
+A00324,44,Male,Asian,Home,Trauma,2021,Unstable,4.5
+A00325,30,Male,White,Work,Stroke,2020,Unstable,6.3
+A00326,46,Female,Asian,School,Stroke,2021,Unstable,20.2
+A00327,6,Male,Asian,School,Allergic reaction,2019,Comatose,8.9
+A00328,37,Female,Hispanic or Latino,Other,Psychiatric emergency,2019,Comatose,19.9
+A00329,24,Female,Asian,Other,Cardiac arrest,2022,Stable,17.2
+A00330,46,Male,Asian,School,Cardiac arrest,2023,BID,4.7
+A00331,53,Male,White,School,Cardiac arrest,2021,Stable,12.4
+A00332,60,Female,Hispanic or Latino,School,Cardiac arrest,2023,Unstable,16.4
+A00333,63,Male,Other,Work,Infection,2022,Comatose,6
+A00334,85,Male,White,School,Cardiac arrest,2019,Comatose,20
+A00335,32,Female,White,Public Place,Infection,2023,Stable,13.3
+A00336,87,Female,Other,Home,Infection,2023,Comatose,4.4
+A00337,33,Male,Asian,School,Psychiatric emergency,2019,Unstable,14.2
+A00338,67,Female,Black or African American,Home,Cardiac arrest,2021,Comatose,24
+A00339,18,Male,Hispanic or Latino,Work,Respiratory distress,2019,Stable,4
+A00340,25,Male,Black or African American,Home,Trauma,2023,Unstable,19.7
+A00341,54,Male,Other,Work,Stroke,2021,Stable,5.4
+A00342,58,Female,White,Public Place,Infection,2021,Comatose,18.9
+A00343,67,Female,White,Work,Allergic reaction,2019,Stable,17.8
+A00344,46,Female,Hispanic or Latino,Work,Allergic reaction,2023,Stable,7.6
+A00345,24,Female,White,Other,Trauma,2022,BID,8.2
+A00346,32,Female,White,School,Allergic reaction,2023,Comatose,19.1
+A00347,47,Male,Hispanic or Latino,School,Respiratory distress,2020,Comatose,11.3
+A00348,86,Male,Hispanic or Latino,Public Place,Allergic reaction,2022,Stable,17.7
+A00349,23,Male,Other,Public Place,Stroke,2021,BID,4
+A00350,66,Male,White,School,Stroke,2022,Comatose,20.5
+A00351,27,Female,White,Other,Infection,2021,Unstable,17.2
+A00352,2,Male,Other,School,Cardiac arrest,2021,Stable,21.8
+A00353,17,Female,Asian,Other,Psychiatric emergency,2022,Comatose,3.6
+A00354,33,Male,Asian,Public Place,Respiratory distress,2021,Unstable,14.4
+A00355,9,Female,Asian,Home,Infection,2021,Comatose,14.6
+A00356,43,Female,Other,Public Place,Respiratory distress,2020,Unstable,8.8
+A00357,48,Male,White,Public Place,Cardiac arrest,2023,Stable,11.3
+A00358,39,Male,Other,Work,Allergic reaction,2023,Comatose,1.4
+A00359,42,Male,Other,Work,Allergic reaction,2020,Comatose,18
+A00360,26,Male,Asian,Work,Psychiatric emergency,2022,BID,13.4
+A00361,50,Female,Black or African American,Work,Cardiac arrest,2019,Stable,1.9
+A00362,25,Male,White,Other,Infection,2019,Unstable,16.5
+A00363,24,Male,Asian,School,Psychiatric emergency,2019,Comatose,11.5
+A00364,13,Female,Black or African American,Home,Cardiac arrest,2020,Comatose,1.3
+A00365,60,Male,Black or African American,Public Place,Trauma,2020,Unstable,23.3
+A00366,7,Male,Hispanic or Latino,Other,Stroke,2021,Stable,22.8
+A00367,57,Male,White,Home,Psychiatric emergency,2019,BID,12.6
+A00368,36,Male,Black or African American,Other,Psychiatric emergency,2022,BID,2.7
+A00369,45,Male,Asian,Other,Infection,2022,Comatose,18.2
+A00370,20,Female,Hispanic or Latino,Public Place,Respiratory distress,2019,Unstable,12.1
+A00371,65,Male,White,School,Trauma,2019,Comatose,7.6
+A00372,8,Male,Other,Work,Infection,2019,Unstable,12
+A00373,16,Male,Asian,School,Cardiac arrest,2020,BID,12.8
+A00374,14,Male,Black or African American,Public Place,Cardiac arrest,2020,Stable,13.7
+A00375,76,Male,Black or African American,Public Place,Cardiac arrest,2020,Unstable,10.9
+A00376,87,Female,Asian,Public Place,Cardiac arrest,2023,BID,14.7
+A00377,15,Male,Black or African American,Home,Respiratory distress,2022,Comatose,22.1
+A00378,66,Female,Hispanic or Latino,School,Trauma,2022,Unstable,9
+A00379,32,Female,White,School,Allergic reaction,2021,Stable,17.6
+A00380,87,Male,Hispanic or Latino,Other,Stroke,2020,Comatose,21.5
+A00381,63,Male,Black or African American,Other,Respiratory distress,2023,Comatose,11.2
+A00382,86,Male,Other,Other,Respiratory distress,2023,BID,10.9
+A00383,51,Male,White,Public Place,Allergic reaction,2022,Unstable,14.6
+A00384,25,Female,White,School,Allergic reaction,2020,Comatose,14.4
+A00385,58,Male,Asian,Public Place,Stroke,2021,Stable,19.5
+A00386,63,Male,Asian,Home,Stroke,2020,Unstable,11.7
+A00387,62,Male,Other,Other,Allergic reaction,2019,Stable,23.9
+A00388,22,Male,White,Public Place,Cardiac arrest,2020,Comatose,1.9
+A00389,58,Male,Other,Public Place,Respiratory distress,2019,Stable,0.6
+A00390,58,Male,Asian,Home,Infection,2019,BID,15.5
+A00391,86,Female,Asian,Work,Stroke,2021,Stable,7.5
+A00392,49,Female,White,School,Stroke,2022,Unstable,6.1
+A00393,52,Male,Hispanic or Latino,Work,Allergic reaction,2020,Stable,7.8
+A00394,42,Male,Black or African American,Other,Trauma,2019,Stable,6.5
+A00395,70,Male,Asian,Public Place,Infection,2020,BID,1.2
+A00396,15,Female,Asian,Home,Infection,2022,Stable,23.3
+A00397,54,Male,Hispanic or Latino,Home,Stroke,2022,Stable,5.7
+A00398,60,Female,Hispanic or Latino,School,Cardiac arrest,2023,Comatose,17.7
+A00399,8,Male,Other,Work,Trauma,2022,Comatose,18.4
+A00400,53,Male,Other,School,Infection,2021,Unstable,22.3
+A00401,60,Male,Black or African American,Public Place,Stroke,2019,Comatose,1.2
+A00402,5,Male,Black or African American,School,Infection,2023,Comatose,21
+A00403,68,Female,White,Home,Psychiatric emergency,2021,Comatose,12.9
+A00404,6,Female,Other,Home,Trauma,2020,Comatose,15.4
+A00405,47,Male,Asian,Other,Trauma,2019,BID,15.6
+A00406,55,Male,Other,Other,Psychiatric emergency,2022,Comatose,19.8
+A00407,40,Female,Asian,Public Place,Respiratory distress,2019,BID,8.3
+A00408,52,Female,Hispanic or Latino,Work,Psychiatric emergency,2020,BID,17.7
+A00409,16,Female,Other,School,Allergic reaction,2023,Comatose,12.9
+A00410,13,Female,Hispanic or Latino,Public Place,Allergic reaction,2023,Stable,19.1
+A00411,30,Male,Black or African American,Other,Stroke,2023,BID,23.8
+A00412,19,Female,Black or African American,School,Trauma,2022,Stable,5.2
+A00413,17,Male,White,Other,Respiratory distress,2021,Stable,23.9
+A00414,63,Female,Other,School,Respiratory distress,2021,Comatose,2.6
+A00415,19,Female,Hispanic or Latino,Work,Infection,2019,Unstable,0.6
+A00416,58,Female,Asian,Public Place,Infection,2022,Comatose,1.5
+A00417,55,Female,Black or African American,School,Psychiatric emergency,2023,Unstable,8.5
+A00418,62,Female,Black or African American,Home,Respiratory distress,2023,Unstable,15.4
+A00419,23,Male,Asian,Home,Psychiatric emergency,2020,Comatose,2.1
+A00420,9,Male,Hispanic or Latino,School,Psychiatric emergency,2020,Comatose,0.6
+A00421,12,Female,Hispanic or Latino,School,Infection,2023,Unstable,22.5
+A00422,1,Female,Other,School,Trauma,2023,Comatose,19.8
+A00423,58,Male,Other,Home,Psychiatric emergency,2022,Unstable,19.5
+A00424,1,Female,White,Home,Cardiac arrest,2021,Stable,21.3
+A00425,34,Female,Black or African American,School,Trauma,2020,Comatose,17
+A00426,48,Male,Other,Other,Respiratory distress,2021,Stable,3
+A00427,89,Female,Hispanic or Latino,Other,Respiratory distress,2022,BID,9.9
+A00428,1,Female,Asian,Work,Psychiatric emergency,2023,Stable,17.5
+A00429,16,Male,Hispanic or Latino,Public Place,Trauma,2021,Stable,7.1
+A00430,61,Male,Black or African American,Other,Infection,2023,Unstable,16.7
+A00431,64,Male,Hispanic or Latino,Home,Infection,2023,Stable,1.1
+A00432,63,Female,White,Other,Allergic reaction,2019,Comatose,7.7
+A00433,69,Male,Black or African American,Work,Respiratory distress,2021,Unstable,13.4
+A00434,22,Male,Asian,Work,Stroke,2021,BID,15.4
+A00435,67,Male,White,Public Place,Allergic reaction,2023,Comatose,14.1
+A00436,76,Male,Black or African American,Other,Infection,2022,BID,16.9
+A00437,26,Male,Asian,Home,Trauma,2019,Stable,0.6
+A00438,16,Male,White,Home,Infection,2023,Comatose,2.9
+A00439,51,Female,White,School,Trauma,2020,Comatose,20.9
+A00440,86,Female,Black or African American,Home,Allergic reaction,2020,BID,16.5
+A00441,57,Male,Other,Public Place,Respiratory distress,2019,Comatose,3.2
+A00442,29,Male,White,Public Place,Infection,2022,Comatose,20.3
+A00443,78,Male,White,Home,Psychiatric emergency,2023,Comatose,6.2
+A00444,69,Female,Asian,Home,Trauma,2021,Stable,11.7
+A00445,47,Female,Hispanic or Latino,School,Respiratory distress,2019,BID,3.9
+A00446,62,Female,Black or African American,Home,Stroke,2022,Comatose,17.2
+A00447,69,Female,Black or African American,School,Trauma,2021,Unstable,16.2
+A00448,76,Female,Other,School,Allergic reaction,2020,Unstable,5.5
+A00449,16,Female,Other,Home,Stroke,2020,Unstable,20.8
+A00450,48,Female,Black or African American,Work,Stroke,2021,Unstable,9.9
